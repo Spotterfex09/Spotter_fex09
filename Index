@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spotter_fex09 – Aviation Photographer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e8f0fe;
+      color: #333;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+    }
+    img {
+      width: 300px;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+    section {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Spotter_fex09</h1>
+    <p>Fotografo dell'aviazione</p>
+  </header>
+
+  <section>
+    <h2>Chi sono</h2>
+    <p>Appassionato di aerei e fotografia. Catturo scatti unici dagli aeroporti.</p>
+    <img src="tuafoto-cartoon.jpg" alt="Foto cartoon Spotter" />
+  </section>
+
+  <section>
+    <h2>Contatti</h2>
+    <p>Instagram: <a href="https://instagram.com/spotter_fex09" target="_blank">@spotter_fex09</a></p>
+  </section>
+</body>
+</html>
